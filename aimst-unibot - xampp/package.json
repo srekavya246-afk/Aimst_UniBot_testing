@@ -1,0 +1,22 @@
+{
+  "name": "aimst-unibot",
+  "version": "1.0.0",
+  "description": "AIMST University UniBot Real-Time Full-Stack Web Application",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node backend/server.js"
+  },
+  "keywords": [
+    "aimst",
+    "unibot",
+    "chatbot",
+    "cloud-deployment",
+    "mysql"
+  ],
+  "author": "Kavyasre Kobinathan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
